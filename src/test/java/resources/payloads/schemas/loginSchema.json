@@ -1,0 +1,15 @@
+{
+  "id": "#number",
+  "uid": "#number",
+  "token": "##string",
+  "emailAddress": "##string",
+  "email": "##string",
+  "name": "##string",
+  "isBlocked": "#boolean",
+  "isBlockedQlu": "#boolean",
+  "userRole": "##string",
+  "color": "##string",
+  "is_2fa_enabled": "#boolean",
+  "phoneNumber": null,
+  "verified": "#boolean"
+}

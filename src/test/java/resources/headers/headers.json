@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "authorization" : ""
+  },
+  "contentType" :
+  {
+    "Content-Type" : "application/json"
+  }
+
+}

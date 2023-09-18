@@ -1,0 +1,15 @@
+{
+  "login":
+  {
+    "loginWithValidUrl" : "public/login/user"
+  },
+
+  "dashboard":
+  {
+    "viewsStatsAfterLogin" : "auth/stats"
+  },
+  "notification" :
+  {
+    "validNotificationUrl" : "api/v2/auth/notifications"
+  }
+}
